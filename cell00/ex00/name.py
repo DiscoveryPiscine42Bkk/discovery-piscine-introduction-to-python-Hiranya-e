@@ -1,3 +1,3 @@
-first_nae="Hiranya"
+first_name="Hiranya"
 last_name="Tawankhun"
-print(f"{first_nae} {last_name}")
+print(f"{first_name} {last_name}")
